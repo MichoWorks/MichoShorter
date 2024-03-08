@@ -14,6 +14,9 @@ MichoShorter is a simple URL shortener web application. It allows users to short
 3. Click the "Shorten" button to generate the shortened URL.
 4. Copy and share the shortened URL with others.
 
+## Screenshot
+![MichoShorter Screenshot](https://i.ibb.co/pfXhKP6/Untitled.png)
+
 ## License
 All rights reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the project owner.
 
