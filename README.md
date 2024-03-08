@@ -1,21 +1,21 @@
 # MichoShorter
 
-MichoShorter is a simple and fast URL shortening service that allows you to create custom short links quickly and easily. It's powered by TinyURL for reliable link generation and offers the flexibility to customize your links. Simplify your link-sharing experience with MichoShorter today!
+MichoShorter is a simple URL shortener web application. It allows users to shorten long URLs into shorter ones, making them easier to share and manage.
 
 ## Features
-
-- Quickly shorten long URLs
-- Customize your short links
-- Easy-to-use interface
-- Powered by TinyURL for reliability
+- Shorten any long URL quickly and easily.
+- Customize shortened URLs with custom text.
+- Responsive design for seamless usage on various devices.
+- Integration with TinyURL API for URL shortening.
+- Stylish UI with customizable cursor and pointer.
 
 ## Usage
-
-1. Enter your long URL in the provided input field.
-2. Optionally, customize your link by entering a custom text.
-3. Click the "Shorten" button to generate your shortened URL.
-4. Copy the shortened URL and share it with others!
+1. Enter a long URL into the input field.
+2. Optionally, customize the shortened URL with your preferred text.
+3. Click the "Shorten" button to generate the shortened URL.
+4. Copy and share the shortened URL with others.
 
 ## License
+All rights reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the project owner.
 
-This project is dedicated to the public domain under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. See the [LICENSE](LICENSE) file for details.
+© 2024 MichoWorks
