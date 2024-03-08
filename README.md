@@ -2,6 +2,8 @@
 
 MichoShorter is a simple URL shortener web application. It allows users to shorten long URLs into shorter ones, making them easier to share and manage.
 
+Visit the website: [MichoShorter](https://michoworks.great-site.net/MichoShorter/)
+
 ## Features
 - Shorten any long URL quickly and easily.
 - Customize shortened URLs with custom text.
