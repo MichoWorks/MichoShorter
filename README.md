@@ -6,7 +6,6 @@ MichoShorter is a simple URL shortener web application. It allows users to short
 - Shorten any long URL quickly and easily.
 - Customize shortened URLs with custom text.
 - Responsive design for seamless usage on various devices.
-- Integration with TinyURL API for URL shortening.
 - Stylish UI with customizable cursor and pointer.
 
 ## Usage
